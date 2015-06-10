@@ -1,6 +1,13 @@
 Fork of PureFTPd project to be able to run on Vmware ESXi Hypervisor.
 
-(not working yet, work in progress)
+(not working yet, work in progress) :
+
+ Todo list :
+ - Disable partial flock in upload-pipe.c : Vmware esxi not support partial flock
+ - Use "ACCEPT_ROOT_VIRTUAL_USERS"
+ 
+ 
+ 
 
 --------------------------------------------------------------------------------
 
