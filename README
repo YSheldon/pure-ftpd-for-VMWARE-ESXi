@@ -1,3 +1,9 @@
+Fork of PureFTPd project to be able to run on Vmware ESXi Hypervisor.
+
+(not working yet, work in progress)
+
+--------------------------------------------------------------------------------
+
 
                               .:. PURE-FTPD .:.
                       Documentation for version 1.0.39
